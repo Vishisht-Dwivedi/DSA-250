@@ -29,6 +29,7 @@ DSA Grind
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0344-reverse-string) |
 ## Trie
@@ -38,5 +39,6 @@ DSA Grind
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
