@@ -36,6 +36,7 @@ DSA Grind
 | [0125-valid-palindrome](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
 | ------- |
@@ -46,6 +47,7 @@ DSA Grind
 | [0027-remove-element](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,4 +56,8 @@ DSA Grind
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
