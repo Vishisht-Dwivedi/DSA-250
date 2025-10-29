@@ -62,4 +62,12 @@ DSA Grind
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0680-valid-palindrome-ii) |
+## Math
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/3676-smallest-number-with-all-set-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
