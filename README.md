@@ -37,6 +37,7 @@ DSA Grind
 | [0242-valid-anagram](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -48,6 +49,7 @@ DSA Grind
 | [0125-valid-palindrome](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
