@@ -13,6 +13,7 @@ DSA Grind
 | [0088-merge-sorted-array](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0219-contains-duplicate-ii) |
 | [2058-concatenation-of-array](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -24,6 +25,7 @@ DSA Grind
 | [0001-two-sum](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -75,4 +77,8 @@ DSA Grind
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/3676-smallest-number-with-all-set-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
