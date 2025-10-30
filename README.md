@@ -41,6 +41,7 @@ DSA Grind
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0344-reverse-string) |
@@ -91,5 +92,6 @@ DSA Grind
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
