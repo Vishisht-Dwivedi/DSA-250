@@ -1,18 +1,14 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int n = nums.length;
-        if (n < 2) return n;
+        if (nums.length == 0) return 0;
 
-        int write = 1;  // next unique write position
-        int prev = nums[0];
-
-        for (int i = 1; i < n; i++) {
-            int curr = nums[i];
-            if (curr != prev) {
-                nums[write++] = curr;
-                prev = curr;
+        int low = 0;
+        for (int high = 1; high < nums.length; high++) {
+            if (nums[high] != nums[low]) {
+                low++;
+                nums[low] = nums[high];
             }
         }
-        return write;
+        return low + 1;
     }
 }
