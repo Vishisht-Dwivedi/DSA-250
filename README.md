@@ -15,10 +15,12 @@ DSA Grind
 | [0169-majority-element](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0219-contains-duplicate-ii) |
+| [0682-baseball-game](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -86,4 +88,8 @@ DSA Grind
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
