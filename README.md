@@ -16,6 +16,7 @@ DSA Grind
 | [0217-contains-duplicate](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0219-contains-duplicate-ii) |
 | [0682-baseball-game](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0792-binary-search) |
 | [2058-concatenation-of-array](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -94,4 +95,8 @@ DSA Grind
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0682-baseball-game) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Vishisht-Dwivedi/DSA-250/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
